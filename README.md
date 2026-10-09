@@ -9,6 +9,13 @@ PulseGuard AI is an intelligent clinical decision support system designed for no
 
 ---
 
+## 🚀 Live Application & Deployment
+
+* **Live Streamlit Web App:** [Access PulseGuard AI Live](https://aicatalyst890-pulse-guard-ai-app-tsumqd.streamlit.app/)
+* **Target Deployment Scale:** Designed for rural district clinics, primary health centers (PHCs), and frontline ASHA health workers.
+
+---
+
 ## 📌 Project Features
 
 - **Dual-Disease ML Analytics Engine:** Evaluates patient biometrics simultaneously across two separate machine learning classification pipelines.
@@ -83,5 +90,3 @@ The models were trained inside `train_models.ipynb` using supervised machine lea
 ## 🎯 Alignment with Sustainable Development Goals (SDG 3)
 
 PulseGuard AI addresses the shortage of specialist doctors in low-resource clinics by empowering primary healthcare workers with early screening tools, reducing delayed diagnoses for Non-Communicable Diseases (NCDs).
-
-```
